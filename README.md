@@ -14,7 +14,7 @@ There are two ways to utilize this backend service<b>
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dhirajmishra98/Jugaad-Junction-Server
+    git clone https://github.com/dhirajmishra98/Ecommerce-Backend-Server.git
     ```
 2. Install dependencies:
 
